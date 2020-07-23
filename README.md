@@ -1,11 +1,6 @@
-### Hi, I'm Soumya 👋
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Soumya 👋
 <hr>
-<img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/readme-header.png" alt="banner that says Soumya Dey">
-
-<!--
-**Soumya-Dey/Soumya-Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/readme-header-crooped.png" width="740" alt="banner that says Soumya Dey">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
