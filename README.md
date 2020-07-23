@@ -1,5 +1,4 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Soumya 👋
-<hr>
 <img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/readme-header-crooped.png" width="740" alt="banner that says Soumya Dey">
 
 - 🔭 I’m currently working on ...
