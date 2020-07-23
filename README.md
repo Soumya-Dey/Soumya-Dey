@@ -1,6 +1,6 @@
 ### Hi, I'm Soumya 👋
 <hr>
-<img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/Soumya-Dey-header.png" alt="banner that says Soumya Dey">
+<img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/header.png" alt="banner that says Soumya Dey">
 
 <!--
 **Soumya-Dey/Soumya-Dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
