@@ -18,4 +18,4 @@
 - &nbsp; Visit my [Website](https://soumya-dey.github.io/)
 - &nbsp; Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
 - &nbsp; Be my friend on [Facebook](https://www.facebook.com/soumya.dey.39948)
-- &nbsp; Contact me [here](soumyadey200@hotmail.com)
+- &nbsp; Contact me [here](mailto:soumyadey200@hotmail.com)
