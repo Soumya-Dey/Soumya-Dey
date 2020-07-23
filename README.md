@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Soumya-Dey?style=social) 
 
-## &nbsp;&nbsp;&nbsp;&nbsp; Welcome to my wrold 🌏:
+## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my wrold 🌏:
 - &nbsp; 🧭 I'm from... **Kolkata, India**
 - &nbsp; 🔭 I’m currently working on... **[Rent2trust Back-end](https://github.com/Digital-servicess/backend_node)**
 - &nbsp; 🌱 I’m currently learning... **Vuw.js, Socket.io**
