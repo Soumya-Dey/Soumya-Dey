@@ -1,5 +1,5 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Soumya 👋 
-<hr>
+
 <img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/readme-header-crooped.png" width="740" alt="banner that says Soumya Dey"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Soumya-Dey?style=social) 
@@ -14,7 +14,7 @@
 - &nbsp; 😄 Pronouns... **He/Him** 
 - &nbsp; ⚡ Fun fact... **The first oranges weren’t orange 🍊**
 
-## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web:
+## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web 🕸:
 - &nbsp; Visit my [Website](https://soumya-dey.github.io/)
 - &nbsp; Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
 - &nbsp; Be my friend on [Facebook](https://www.facebook.com/soumya.dey.39948)
