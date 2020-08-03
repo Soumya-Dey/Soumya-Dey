@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/portfolio_banner.png" width="740" alt="banner that says Soumya Dey"/>
+<img src="https://raw.githubusercontent.com/Soumya-Dey/Soumya-Dey/master/readme-banner.png" width="740" alt="banner that says Soumya Dey"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Soumya-Dey?style=social)&nbsp;&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/soumyadey2001?style=social)
 
