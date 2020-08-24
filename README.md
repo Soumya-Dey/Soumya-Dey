@@ -14,9 +14,3 @@
 - &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
 - &nbsp; 😎 Be my friend on [Facebook](https://www.facebook.com/soumya.dey.39948)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
-
-<br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=soumya-dey&show_icons=true" alt="soumya-dey" /></p>
-
-<br/>
-<p>&nbsp;<img src="https://github-readme-stats.soumya-dey.vercel.app/api/top-langs/?username=Soumya-Dey&layout=compact&hide=html&count_private=true&show_icons=true" alt="Soumya Dey's Github Stats" /></p>
