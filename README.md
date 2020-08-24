@@ -18,4 +18,4 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=soumya-dey&show_icons=true" alt="soumya-dey" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dey&layout=compact&hide=html" alt="soumya-dey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dey&layout=compact&hide=html" alt="soumya-dey" /></p>
