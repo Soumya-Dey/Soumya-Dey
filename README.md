@@ -11,7 +11,7 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web 🕸:
 - &nbsp; 💻 Visit my [Website](https://soumya-dey.github.io/)
+- &nbsp; 📝 View my [Blogs on Dev.to](https://dev.to/soumyadey)
 - &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
-- &nbsp; 😎 Be my friend on [Facebook](https://www.facebook.com/soumya.dey.39948)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
 <br/>
