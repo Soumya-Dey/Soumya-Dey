@@ -10,9 +10,9 @@
 - &nbsp; ⚡ Fun fact... **The first oranges weren’t orange 🍊**
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; My Recent Blog Posts 📓:
-- &nbsp; 📝 [Understanding JavaScript Scope Rules with Examples](https://dev.to/soumyadey/understanding-javascript-scope-rules-2bod)
-- &nbsp; 📝 [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
-- &nbsp; 📝 [Advantages of Git-flow over standard git commands](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
+- &nbsp; 🔭 [Understanding JavaScript Scope Rules with Examples](https://dev.to/soumyadey/understanding-javascript-scope-rules-2bod)
+- &nbsp; 🔨 [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
+- &nbsp; 🚥 [Advantages of Git-flow over standard git commands](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web 🕸:
 - &nbsp; 💻 Visit my [Website](https://soumya-dey.github.io/)
