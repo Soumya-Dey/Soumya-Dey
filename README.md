@@ -11,8 +11,8 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; My Recent Blog Posts 📓:
 - &nbsp; 🔨 [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
-- &nbsp; 🚥 [Advantages of Git-flow over standard git commands](https://dev.to/soumyadey/git-flow-over-standard-git-commands-1kl7)
 - &nbsp; 🎓 [What & Where to Learn - Web Development Roadmap in 2020](https://dev.to/soumyadey/what-where-to-learn-web-development-roadmap-in-2020-4onj)
+- &nbsp; 🔬 [Understanding Lexical Scope & Closures in JavaScript](https://dev.to/soumyadey/understanding-lexical-scope-closures-in-javascript-229b)
 - &nbsp; 🔭 [Understanding JavaScript Scope Rules with Examples](https://dev.to/soumyadey/understanding-javascript-scope-rules-2bod)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web 🕸:
