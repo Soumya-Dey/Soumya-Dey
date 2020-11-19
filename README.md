@@ -3,15 +3,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Soumya-Dey?style=social)&nbsp;&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/soumyadey2001?style=social)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my wrold 🌏:
-- &nbsp; 🌱 I’m currently learning... **Vue.js, Socket.io**
-- &nbsp; 🤔 I’m looking for help with... **Firebase**
+- &nbsp; 🌱 I’m currently learning... **React Native, Socket.io**
+- &nbsp; 🤔 I’m looking for help with... **Context API**
 - &nbsp; 💬 Ask me about... **Anything**
 - &nbsp; 😄 Pronouns... **He/His/Him** 
 - &nbsp; ⚡ Fun fact... **The first oranges weren’t orange 🍊**
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; My Recent Blog Posts 📓:
 - &nbsp; 🔨 [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
-- &nbsp; 🎓 [What & Where to Learn - Web Development Roadmap in 2020](https://dev.to/soumyadey/what-where-to-learn-web-development-roadmap-in-2020-4onj)
+- &nbsp; ⚡ [Node & Express server, but with TypeScript !](https://dev.to/soumyadey/node-express-server-but-with-typescript-2h6e)
 - &nbsp; 🔬 [Understanding Lexical Scope & Closures in JavaScript](https://dev.to/soumyadey/understanding-lexical-scope-closures-in-javascript-229b)
 - &nbsp; 🔭 [Understanding JavaScript Scope Rules with Examples](https://dev.to/soumyadey/understanding-javascript-scope-rules-2bod)
 
