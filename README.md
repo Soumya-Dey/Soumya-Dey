@@ -1,4 +1,5 @@
 <br>
+
 ## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my wrold 🌏:
 - &nbsp; 🌱 I’m currently learning... **React Native, Socket.io**
 - &nbsp; 🤔 I’m looking for help with... **Context API**
@@ -17,7 +18,7 @@
 - &nbsp; 📝 View my [Blogs on Dev.to](https://dev.to/soumyadey)
 - &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
-<br>
 
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/Soumya-Dey?style=social)&nbsp;&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/soumyadey2001?style=social)
 <br/>
