@@ -1,7 +1,7 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my wrold 🌏:
-- &nbsp; 🌱 I’m currently learning... **React Native, Socket.io**
-- &nbsp; 🤔 I’m looking for help with... **Context API**
+- &nbsp; 🌱 I’m currently learning... **React Native, Laravel**
+- &nbsp; 🤔 I’m looking for help with... **Socket.io**
 - &nbsp; 💬 Ask me about... **Anything**
 - &nbsp; 😄 Pronouns... **He/His/Him** 
 - &nbsp; ⚡ Fun fact... **The first oranges weren’t orange 🍊**
