@@ -1,5 +1,5 @@
 
-## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my wrold 🌏:
+## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my world 🌏:
 - &nbsp; 🌱 I’m currently learning... **React Native, Laravel**
 - &nbsp; 🤔 I’m looking for help with... **WebRTC, Socket.io**
 - &nbsp; 💬 Ask me about... **Anything**
