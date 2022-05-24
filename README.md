@@ -10,7 +10,6 @@
 - &nbsp; 🤘 [Make Arrays your best friend with these methods!](https://dev.to/soumyadey/make-arrays-your-best-friend-with-these-methods-59ld)
 - &nbsp; 🛠️ [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
 - &nbsp; 💥 [Node & Express server, but with TypeScript !](https://dev.to/soumyadey/node-express-server-but-with-typescript-2h6e)
-- &nbsp; 🧐 [What & Where to Learn - Web Development Roadmap in 2020](https://dev.to/soumyadey/what-where-to-learn-web-development-roadmap-in-2020-4onj)
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web 🕸:
 - &nbsp; 💻 Visit my [Website](https://soumya-dey.github.io/)
