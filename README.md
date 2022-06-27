@@ -1,6 +1,6 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my world 🌏:
-- &nbsp; 🌱 I’m currently learning... **PHP, Laravel**
+- &nbsp; 🌱 I’m currently learning... **Svelte**
 - &nbsp; 🤔 I’m looking for help with... **WebRTC, Socket.io**
 - &nbsp; 💬 Ask me about... **Anything**
 - &nbsp; 😄 Pronouns... **He/His/Him** 
