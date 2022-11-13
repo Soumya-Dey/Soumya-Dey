@@ -1,7 +1,7 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Hi, Welcome to my world 🌏:
 - &nbsp; 🌱 I’m currently learning... **Svelte**
-- &nbsp; 🤔 I’m looking for help with... **WebRTC, Socket.io**
+- &nbsp; 🤔 I’m looking for help with... **Web Sockets**
 - &nbsp; 💬 Ask me about... **Anything**
 - &nbsp; 😄 Pronouns... **He/His/Him** 
 - &nbsp; ⚡ Fun fact... **The first oranges weren’t orange 🍊**
@@ -13,6 +13,9 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; Find me around web 🕸:
 - &nbsp; 💻 Visit my [Website](https://soumya-dey.github.io/)
+- &nbsp; 🦊 Check my [Repos on GitLab](https://gitlab.com/Soumya-Dey)
+- &nbsp; 📦 Check my [Packages on NPM](https://www.npmjs.com/~soumyadey)
+- &nbsp; 🔗 View my [Profile on LinkedIn](https://www.linkedin.com/in/soumya-dey-kolkata/)
 - &nbsp; 📝 View my [Blogs on Dev.to](https://dev.to/soumyadey)
 - &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
