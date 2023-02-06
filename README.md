@@ -20,8 +20,12 @@
 - &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
 
-## &nbsp;Top Languages Used 👨‍💻:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dey&layout=compact&theme=gotham)
+---
+
+<details>
+  <summary>Top Languages Used 👨‍</summary>
+   <img align="center" style="margin:5px 5px 5px 5px" alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-dey&layout=compact&theme=gotham" />
+</details>
 
 <br>
 
