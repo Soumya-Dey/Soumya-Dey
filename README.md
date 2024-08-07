@@ -13,14 +13,14 @@
 - &nbsp; [Node & Express server, but with TypeScript !](https://dev.to/soumyadey/node-express-server-but-with-typescript-2h6e)
 
 ## &nbsp;Find me around web 🕸:
-- &nbsp; 💻 Visit my [Website](https://soumya-dey.github.io/)
+- &nbsp; 💻 Visit my [Website](https://soumyadey.netlify.app/)
 - &nbsp; 🦊 Check my [Repos on GitLab](https://gitlab.com/Soumya-Dey)
 - &nbsp; 📦 Check my [Packages on NPM](https://www.npmjs.com/~soumyadey)
 - &nbsp; 🔗 View my [Profile on LinkedIn](https://www.linkedin.com/in/soumya-dey-kolkata/)
 - &nbsp; 🌟 Check out my [Substack](https://soumyadey.substack.com/)
 - &nbsp; 📝 View my [Blogs on Dev.to](https://dev.to/soumyadey)
 - &nbsp; 📚 Check out my [Goodreads Profile](https://www.goodreads.com/dobby_the_free_elf)
-- &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/soumya_sl/)
+- &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/dobby_the_free_elf/)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
 
 <br/>
