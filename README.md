@@ -20,7 +20,7 @@
 - &nbsp; 🌟 Check out my [Substack](https://soumyadey.substack.com/)
 - &nbsp; 📝 View my [Blogs on Dev.to](https://dev.to/soumyadey)
 - &nbsp; 📚 Check out my [Goodreads Profile](https://www.goodreads.com/dobby__the_free_elf)
-- &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/dobby_the_free_elf/)
+- &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/dobby__the_free_elf)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
 
 <br/>
