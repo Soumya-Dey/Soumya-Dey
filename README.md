@@ -1,16 +1,11 @@
 
-## &nbsp;Hi, Welcome to my world 🌏:
-  - &nbsp; 🌱 I’m currently learning... **Flask**
-- &nbsp; 🤔 I’m looking for help with... **Web Sockets**
-- &nbsp; 💬 Ask me about... **Anything**
-- &nbsp; 😄 Pronouns... **He/His/Him** 
-- &nbsp; ⚡ Fun fact... **The first oranges weren’t orange 🍊**
+## &nbsp;Hi, Welcome to my world 🌏
 
 ## &nbsp;My Recent Blog Posts 📓:
 - &nbsp; [Verifying requests from Slack - The CORRECT method for Node.js](https://dev.to/soumyadey/verifying-requests-from-slack-the-correct-method-for-nodejs-417i)
 - &nbsp; [Integrate Razorpay Payment Gateway in your React app](https://dev.to/soumyadey/integrate-razorpay-in-your-react-app-2nib)
 - &nbsp; [Some Lesser Known But Awesome Online Tools For Web Development](https://dev.to/soumyadey/some-lesser-known-but-awesome-online-tools-for-web-development-10fa)
-- &nbsp; [Node & Express server, but with TypeScript !](https://dev.to/soumyadey/node-express-server-but-with-typescript-2h6e)
+- &nbsp; [Understanding Lexical Scope & Closures in JavaScript](https://dev.to/soumyadey/understanding-lexical-scope-closures-in-javascript-229b)
 
 ## &nbsp;Find me around web 🕸:
 - &nbsp; 💻 Visit my [Website](https://soumyadey.netlify.app/)
@@ -22,8 +17,3 @@
 - &nbsp; 📚 Check out my [Goodreads Profile](https://www.goodreads.com/dobby_the_free_elf)
 - &nbsp; 😜 Follow me on [Instagram](https://www.instagram.com/dobby__the_free_elf)
 - &nbsp; 📪 Contact me [here](mailto:soumyadey200@hotmail.com)
-
-<br/>
-
-&nbsp;![GitHub followers](https://img.shields.io/github/followers/Soumya-Dey?style=social)&nbsp;&nbsp; ![Twitter Follow](https://img.shields.io/twitter/follow/soumyadey2001?style=social)
-<br/>
